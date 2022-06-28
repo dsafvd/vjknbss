@@ -1,0 +1,29 @@
+{
+  "latest_version": "1.1.1",
+  "broadcasts": [
+    "闲鱼可达鸭为本软件的唯一官方卖家",
+    "如果你在其他地方买到本软件,请投诉差评",
+	"若遗忘了订单编号请至闲鱼寻找聊天记录,系统自动发货的时候有发送订单号",
+	"若更新后自动关闭, 请手动运行WeMod启动器.new.exe或WeMod启动器.exe"
+  ],
+  "versions": {
+    "1.0.0": {
+      "download_url": "https://ghproxy.com/https://raw.githubusercontent.com/dsafvd/vjknbss/vcss/binary/1.0.0.exe",
+      "release_note": "第一版发布",
+      "disable": true,
+	  "disable_reason": "已有新版本发布"
+    },
+	"1.1.0": {
+      "download_url": "https://ghproxy.com/https://raw.githubusercontent.com/dsafvd/vjknbss/vcss/binary/1.1.0.exe",
+      "release_note": "加入闲鱼订单号验证",
+      "disable": true,
+	  "disable_reason": "已有新版本发布"
+    },
+	"1.1.1": {
+      "download_url": "https://ghproxy.com/https://raw.githubusercontent.com/dsafvd/vjknbss/vcss/binary/1.1.1.exe",
+      "release_note": "修正自动更新后无法自动启动",
+      "disable": false,
+	  "disable_reason": null
+    }
+  }
+}
